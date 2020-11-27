@@ -2,10 +2,10 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Projects"
+title = "Current Projects"
 subtitle = ""
 
 [content]
@@ -21,17 +21,21 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+      name = "All"
+      tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+     name = "Explainability in ML"
+     tag = "Explainability in ML"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Fairness in ML"
+     tag = "Fairness in ML"
+    
+   [[content.filter_button]]
+     name = "Other"
+     tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,4 +78,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+### Generating Fast Counterfactual Explanations for Black-box Models Using Reinforcement Learning
+
+### Removing biased data to improve fairness and accuracy
+
+### ShapeFlow: Dynamic Shape Interpreter for TensorFlow
 

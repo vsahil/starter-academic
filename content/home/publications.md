@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -30,7 +30,25 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
+
+# Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  [[content.filter_button]]
+      name = "All"
+      tag = "*"
   
+  [[content.filter_button]]
+     name = "Explainability in ML"
+     tag = "Explainability in ML"
+  
+   [[content.filter_button]]
+     name = "Fairness in ML"
+     tag = "Fairness in ML"
+    
+   [[content.filter_button]]
+     name = "Other"
+     tag = "Other"
+     
 [design]
   # Toggle between the various page layout types.
   #   1 = List
