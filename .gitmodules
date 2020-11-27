@@ -1,0 +1,8 @@
+[submodule "vsahil.github.io"]
+	path = vsahil.github.io
+	url = https://github.com/vsahil/vsahil.github.io
+	branch = master
+[submodule "public/vsahil.github.io"]
+	path = public/vsahil.github.io
+	url = https://github.com/vsahil/vsahil.github.io
+	branch = master
