@@ -37,13 +37,13 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://arxiv.org/pdf/2010.10596.pdf
-url_code:
+url_code: 
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: slides_full_cfe_review.pdf
 url_source:
-url_video:
+url_video: NeurIPS_final.mov
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
