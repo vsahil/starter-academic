@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NAP: Noise-Based Sensitivity Analysis for Programs"
-authors: ["Jesse Michel*", "Sahil Verma*", "Benjamin Sherman", "Michael Carbin"]
+authors: ["Jesse Michel", "Sahil Verma", "Benjamin Sherman", "Michael Carbin"]
 date: 2019-06-22
 doi: ""
 
@@ -42,7 +42,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: WAX_Slides.pdf
 url_source:
 url_video:
 

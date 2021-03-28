@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Benchmarking Symbolic Execution Using Constraint Problems - Initial Results"
-authors: []
+authors: ["Sahil Verma", "Roland Yap"]
 date: 2019-11-04
 doi: "10.1109/ICTAI.2019.00010"
 
@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: Nus-paper-slides.pdf
 url_source:
 url_video:
 

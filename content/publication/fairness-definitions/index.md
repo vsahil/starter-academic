@@ -37,13 +37,13 @@ featured: false
 #   icon: twitter
 
 url_pdf: files/papers/Fairness_Definitions_Explained_2018.pdf
-url_code:
+url_code: 
 url_dataset:
 url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+url_project: 
+url_slides: fairness-definitions-slides.pptx
+url_source: 
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

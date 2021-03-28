@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: Bias_2020_presentation.pdf
 url_source:
 url_video:
 
